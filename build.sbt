@@ -1,4 +1,4 @@
-name := "Kafka"
+name := "com/kafkaTool"
 
 version := "0.1"
 
