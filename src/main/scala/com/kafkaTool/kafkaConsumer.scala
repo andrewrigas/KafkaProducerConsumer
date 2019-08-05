@@ -22,7 +22,7 @@ object kafkaConsumer  {
   def consumerPoll[K,V](kafkaConsumer: KafkaConsumer[K,V],timeoutMS: Int = 100) = {
     while(true){
       val records: ConsumerRecords[K, V] = kafkaConsumer.poll(100)
-      records.
+      records.cd
     }
   }
 
