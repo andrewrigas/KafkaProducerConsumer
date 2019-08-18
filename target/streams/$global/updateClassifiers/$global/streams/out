@@ -2315,27 +2315,27 @@
 [debug] circular dependency found: org.scala-lang#scala-compiler;2.11.0->org.scala-lang.modules#scala-xml_2.11;1.0.1->...
 [debug] 	resolved ivy file produced in cache
 [debug] :: downloading artifacts ::
-[debug] 	[NOT REQUIRED] net.sf.jopt-simple#jopt-simple;5.0.4!jopt-simple.jar(src)
-[debug] 	[NOT REQUIRED] org.scala-lang#scala-library;2.11.0!scala-library.jar(src)
-[debug] 	[NOT REQUIRED] org.lz4#lz4-java;1.4.1!lz4-java.jar(src)
 [debug] 	[NOT REQUIRED] org.apache.zookeeper#zookeeper;3.4.13!zookeeper.jar(src)
+[debug] 	[NOT REQUIRED] org.lz4#lz4-java;1.4.1!lz4-java.jar(src)
+[debug] 	[NOT REQUIRED] net.sf.jopt-simple#jopt-simple;5.0.4!jopt-simple.jar(src)
 [debug] 	[NOT REQUIRED] com.yammer.metrics#metrics-core;2.2.0!metrics-core.jar(src)
 [debug] 	[NOT REQUIRED] org.apache.yetus#audience-annotations;0.5.0!audience-annotations.jar(src)
-[debug] 	[NOT REQUIRED] com.fasterxml.jackson.core#jackson-annotations;2.9.0!jackson-annotations.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-library;2.11.0!scala-library.jar(src)
 [debug] 	[NOT REQUIRED] org.slf4j#slf4j-api;1.7.25!slf4j-api.jar(src)
-[debug] 	[NOT REQUIRED] com.101tec#zkclient;0.10!zkclient.jar(src)
-[debug] 	[NOT REQUIRED] org.apache.kafka#kafka_2.11;2.0.0!kafka_2.11.jar(src)
 [debug] 	[NOT REQUIRED] com.fasterxml.jackson.core#jackson-core;2.9.6!jackson-core.jar(src)
+[debug] 	[NOT REQUIRED] org.apache.kafka#kafka_2.11;2.0.0!kafka_2.11.jar(src)
+[debug] 	[NOT REQUIRED] com.fasterxml.jackson.core#jackson-annotations;2.9.0!jackson-annotations.jar(src)
+[debug] 	[NOT REQUIRED] com.101tec#zkclient;0.10!zkclient.jar(src)
 [debug] 	[NOT REQUIRED] org.xerial.snappy#snappy-java;1.1.7.1!snappy-java.jar(src)
 [debug] 	[NOT REQUIRED] org.apache.kafka#kafka-clients;2.0.0!kafka-clients.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-compiler;2.11.0!scala-compiler.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-reflect;2.11.0!scala-reflect.jar(src)
+[debug] 	[NOT REQUIRED] jline#jline;2.11!jline.jar(src)
 [debug] 	[NOT REQUIRED] com.fasterxml.jackson.core#jackson-databind;2.9.6!jackson-databind.jar(src)
 [debug] 	[NOT REQUIRED] com.typesafe.scala-logging#scala-logging_2.11;3.9.0!scala-logging_2.11.jar(src)
-[debug] 	[NOT REQUIRED] jline#jline;2.11!jline.jar(src)
-[debug] 	[NOT REQUIRED] org.scala-lang#scala-compiler;2.11.0!scala-compiler.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.11;1.0.1!scala-xml_2.11.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1!scala-parser-combinators_2.11.jar(src)
-[debug] :: resolution report :: resolve 106ms :: artifacts dl 5ms
+[debug] :: resolution report :: resolve 146ms :: artifacts dl 4ms
 [debug] 	report for com-kafkatool#com-kafkatool$sources;0.1 compile produced in /home/rigas/IdeaProjects/KafkaProducerConsumer/target/scala-2.11/resolution-cache/reports/com-kafkatool-com-kafkatool$sources-compile.xml
 [debug] 	report for com-kafkatool#com-kafkatool$sources;0.1 runtime produced in /home/rigas/IdeaProjects/KafkaProducerConsumer/target/scala-2.11/resolution-cache/reports/com-kafkatool-com-kafkatool$sources-runtime.xml
 [debug] 	report for com-kafkatool#com-kafkatool$sources;0.1 test produced in /home/rigas/IdeaProjects/KafkaProducerConsumer/target/scala-2.11/resolution-cache/reports/com-kafkatool-com-kafkatool$sources-test.xml
@@ -2347,4 +2347,4 @@
 [debug] 	report for com-kafkatool#com-kafkatool$sources;0.1 plugin produced in /home/rigas/IdeaProjects/KafkaProducerConsumer/target/scala-2.11/resolution-cache/reports/com-kafkatool-com-kafkatool$sources-plugin.xml
 [debug] 	report for com-kafkatool#com-kafkatool$sources;0.1 pom produced in /home/rigas/IdeaProjects/KafkaProducerConsumer/target/scala-2.11/resolution-cache/reports/com-kafkatool-com-kafkatool$sources-pom.xml
 [debug] 	report for com-kafkatool#com-kafkatool$sources;0.1 scala-tool produced in /home/rigas/IdeaProjects/KafkaProducerConsumer/target/scala-2.11/resolution-cache/reports/com-kafkatool-com-kafkatool$sources-scala-tool.xml
-[debug] 	resolve done (106ms resolve - 5ms download)
+[debug] 	resolve done (146ms resolve - 4ms download)

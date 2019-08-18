@@ -4,7 +4,7 @@
 		module="com-kafkatool$sources"
 		revision="0.1"
 		status="integration"
-		publication="20190804224748"
+		publication="20190814205610"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>
