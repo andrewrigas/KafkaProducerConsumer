@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com_kafkaTool.iml" filepath="$PROJECT_DIR$/.idea/modules/com_kafkaTool.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com_kafkaTool-build.iml" filepath="$PROJECT_DIR$/.idea/modules/com_kafkaTool-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Kafka-Producer-Consumer.iml" filepath="$PROJECT_DIR$/.idea/modules/Kafka-Producer-Consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Kafka-Producer-Consumer-build.iml" filepath="$PROJECT_DIR$/.idea/modules/Kafka-Producer-Consumer-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KafkaProducerConsumer.iml" filepath="$PROJECT_DIR$/KafkaProducerConsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KafkaZookeeperServer.iml" filepath="$PROJECT_DIR$/KafkaZookeeperServer.iml" />
     </modules>
   </component>
 </project>
